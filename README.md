@@ -27,7 +27,7 @@
 ### Model Training
   * Encoded and Standardized Categorical and Numerical features.
   * Handled imabalanced data using SMOTE
-  * Trained the model on 9 regression models, namely, Logisitc Regression, SVC, Gradient Boosting Classifier, K-Neighbours Classifier, Decision Tree Classifier, Random Forest Classifier,
+  * Trained the model on 9 classification models, namely, Logisitc Regression, SVC, Gradient Boosting Classifier, K-Neighbours Classifier, Decision Tree Classifier, Random Forest Classifier,
     XGBClassifier, CatBoosting Classifier, AdaBoost Classifier.
 ### Choosing optimal model
   * Performed Hyperparameter Tuning on the 4 best models based on Accuracy score, namely, CatBoosting Classifier, XGBClassifier, Random Forest Classifier,K-Neighbours Classifier.
